@@ -7,4 +7,5 @@ Implemented algorithms:Bubble sort,Selection sort,Insertion sort,Merge sort,Quic
 Features:
 
 -Colored representation of steps being executed i)Can change default color ii)Color of comparison iii)Transition color and iv)Color of final correct position.
+
 -Controls for visualizations i) Speed of visualization ii) Data size iii) Generation of new data (Randomly generate new data).
